@@ -53,3 +53,6 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 3 - Run Streamlit UI
 streamlit run ui.py
+ScreenShots
+![WhatsApp Image 2026-01-10 at 12 07 10 AM](https://github.com/user-attachments/assets/0a97b771-543f-496b-a10d-015ea0ff874a)
+
